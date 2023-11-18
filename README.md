@@ -72,7 +72,3 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 ## Licença
 
 Este projeto está licenciado sob a licença [MIT](https://opensource.org/licenses/MIT) - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
-Você pode adaptar esse README de acordo com as especificidades do seu projeto, incluindo mais informações sobre a API, endpoints disponíveis, instruções detalhadas de configuração, entre outros detalhes relevantes.
