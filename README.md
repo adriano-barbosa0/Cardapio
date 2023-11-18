@@ -1,10 +1,4 @@
 # Cardapio
-Projeto BackEnd de cardapio utilizando Java + Spring + PostgreSQL
-Claro, aqui está um exemplo de como poderia ser estruturado um README para um repositório de backend de um cardápio utilizando Java, Spring, PostgreSQL e o testador de rotas Insomnia:
-
----
-
-# Backend do Cardápio
 
 Este repositório contém o código-fonte do backend de um sistema de cardápio desenvolvido em Java com o framework Spring e utiliza um banco de dados PostgreSQL. Além disso, foram utilizadas ferramentas como o testador de rotas Insomnia para facilitar o desenvolvimento e teste das APIs.
 
